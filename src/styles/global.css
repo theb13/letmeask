@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background: #f8f8f8;
+    color: #292929;
+}
+body,
+input,
+button,
+textarea {
+    font: 400 1rem "Roboto", sans-serif;
+}
